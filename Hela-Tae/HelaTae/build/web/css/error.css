@@ -1,0 +1,15 @@
+.error  p{
+    width: 200px;
+    float: right;
+ color: #D8000C;
+background-color: #FFBABA;
+border: 1px solid;
+ margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+border-radius: 04px;
+padding:07px 7px 7px 7px;
+background-repeat: no-repeat;
+
+}

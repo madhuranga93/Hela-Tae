@@ -1,0 +1,24 @@
+.box3{
+    float: left;
+  background:url(../css/images/buy.jpg) no-repeat;
+  
+  margin-top: 100px;
+    margin-bottom: 0px;
+    margin-right: 10px;
+    margin-left: 10px;
+   height: 300px;
+   width: 250px;
+   
+}
+.box4{
+    float: right;
+  background:url(../css/images/buy.jpg) no-repeat;
+  
+  margin-top: 100px;
+    margin-bottom: 0px;
+    margin-right: 10px;
+    margin-left: 10px;
+   height: 300px;
+   width: 250px;
+   
+}
